@@ -1,7 +1,8 @@
 ---
 ID: "732bee58-784a-495f-be6c-ed12a953f87d"
 slug: "asd"
-obj:
+createdAt: 1660137915012
+objm:
   - ID: "4b1cf265-89fe-460e-ac46-2e3777184992"
     f1: "s"
     singlef1:
@@ -47,7 +48,6 @@ obj:
       createdAt: 1660137981146
       ID: "7442b2b7-0f75-4c03-b971-314bfc9edd54"
     createdAt: 1660137957904
-createdAt: 1660137915012
 
 ---
 sadasd

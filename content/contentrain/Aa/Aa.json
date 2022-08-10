@@ -7,7 +7,15 @@
       "qwed",
       "qew"
     ],
-    "obj": [],
+    "obj": [
+      {
+        "ID": "87dafd23-bbcb-4ab9-8e4e-ecbaaeeff977",
+        "ref": [
+          "qwed"
+        ],
+        "createdAt": 1660135996857
+      }
+    ],
     "createdAt": 1660135958136
   }
 ]
